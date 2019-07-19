@@ -1,8 +1,48 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Microscopy image denoising using deep learning 
+  link: Documentation in progress
+  github: RedHotDataProject/Project_ADA
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    I did this project during my master's internship at Center for Dynamic Imaging at Walter and Eliza Hall Institute of Medical Imaging. 
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Keywords: Image processing, microscopy, deep learning, reconstruction
+
+    The aim of this project is to develop a general method using Deep learning to denoise microscopy image coming from different aquisitions. The method used is based on the Content-Aware Image Reconstruction (CARE) publication. 
+
+- layout: top-middle
+  name: Shape Variation Analyzer
+  link: https://www.slicer.org/wiki/Documentation/Nightly/Modules/ShapeVariationAnalyzer
+  github: ninatubau/ShapeVariationAnalyzer
+  quote: >
+    Shape Variation Analyzer (SVA) is a project that I did during my stay at University of Michigan. It was in collaboration with University of North Carolina and Kitware. 
+  description: | # this will include new lines to allow paragraphs
+    Keywords: Image analysis, deep learning, classification
+
+    SVA is a deep learning neural network that allows disease staging of bony changes in temporomandibular joint (TMJ) osteoarthritis (OA). The disease stage classification is done based on 3D shapes of the bone after processing CT scans. We combines geometrical features and shape descriptor, heat kernel signature, to describe every shape. 
+
+    <mark>Publications</mark>: 1. First author [Shape variation analyzer: a classifier for temporomandibular join damaged by osteoarthritis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/1095021/Shape-variation-analyzer--a-classifier-for-temporomandibular-joint-damaged/10.1117/12.2506018.short?SSO=1) 2. Co-author [A web-based system for neural network based classification in temporomandibular joint osteoarthritis](https://www.sciencedirect.com/science/article/abs/pii/S0895611118302805)
+    
+
+- layout: top-middle
+  name: Analysis of the firing of Turkish researchers after the 2016 Coup d'Etat attempt  
+  link: https://github.com/SubutaiBogatur/JoseNinaAlexML
+  github: SubutaiBogatur/JoseNinaAlexML
+  quote: >
+    I did this project during my master´s exchange at EPFL. It was for my Machine Learning course, it was done in collaboration with the Chair of Economics and Management of Innovation research lab. 
+  description: | # this will include new lines to allow paragraphs
+    Keywords: Natural language processing, data analysis, deep learning, classification, web scrapping
+
+    In the political context of the firing of a large number of Turkish researchers since the tentative of Coup d'Etat in 2016 against state institutions, the objective of this project is to try to understand the reasons behind this. We aim to see if we can predict whether or not a researcher is fired by looking at their publications. Therefore, the steps we have followed in this project are the following: 1) Build the dataset by scrapping \textit{WebOfScience}, 2) preprocess the data (clean non-letters, solve other preprocessing problems and disambiguate authors), 3) represent words (concatenation of the title of every article a researcher has written that we can find on \textit{WebOfScience}) in a vector space using different techniques and 4) use machine learning methods (supervised and unsupervised) to try to classify each author as either fired or retained (not fired). 
+
+    *Because of the sensitivity of the project, contact me for further information.*
+
+- layout: top-middle
+  name: The Carbon Foodprint We Do Not Eat  
+  link: https://redhotdataproject.github.io/Project_ADA/
+  github: RedHotDataProject/Project_ADA
+  quote: >
+    I did this project during my master's exchange at EPFL. It was for my Applied Data Analysis course. 
+  description: | # this will include new lines to allow paragraphs
+    Keywords: Data analysis, data visualization, data cleaning, web scrapping
+
+    From the raw dataset Open Food Facts, we cleaned and processed it in a way to extract as much information. We complemented our data set by scrapping the web. 

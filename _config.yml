@@ -3,31 +3,31 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Nina Tubau
-title: Computer Scientist - Image 
+name: Nina Tubau Ribera
+title: Computer Scientist (Image processing)
 email: tubau.n@wehi.edu.au
 website: www.github.com/ninatubau
 
 # Social links
-twitter_username: tubau.n
+#twitter_username: tubau.n
 github_username:  ninatubau
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: ninitbr
-linkedin_username: ninatubau
+#instagram_username: ninitbr
+linkedin_username: nina-tubau-ribera-aa248112b 
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nina and I'm a computer science student. With communication and organisational skills, I am looking for a full time job in Medical Imaging starting in October 2019.
 
 
-  I am most skilled in: <mark>Imaging</mark> and <mark>deep learning</mark>
+  I am most interested in: <mark>Imaging</mark> and <mark>Deep learning</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -45,7 +45,6 @@ more_content: | # this will include new lines to allow paragraphs
    - Skiing
    - Swimming
    - Travelling
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true

@@ -1,10 +1,28 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Ecole Polytechnique Fédérale de Lausanne (EPFL)
+  dates: 2018 - 2019
+  qualification: Computer and data science master exchange
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    EPFL is Europe's most cosmopolitan technical university. It welcomes students, professors and collaborators of more than 120 nationalities. EPFL has both a Swiss and international vocation and focuses on three missions: teaching, research and innovation.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at EPFL I learnt most of my key technical skills though several courses such as Machine Learning, Image processing, Statistics for data science, appplied data science, applied data analysis and language processing.
+    I was also interested in less technical subjects such as Business and Finance.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Chimie Physique Electronique Lyon (CPE)
+  dates: 2015 - 2017
+  qualification: Master computer science
+  quote: >
+    CPE Lyon is a French "Grande Ecole" specialised in the field of digital science and amrt systems
+  description: | # this will include new lines to allow paragraphs
+      CPE Lyon gives a broad understanding of subjects such as Informatics, Mathematics, Imaging, Physics and Electronics. This knowledge has been applied in specific projects.
+
+      I spent a lot of my free time as a committee member of the *Ski Club CPE* taking on roles such as *Communication manager*.
+
+
+- layout: left
+  name: Classes préparatoires Les Chartreux
+  dates: 2013 - 2015
+  qualification: Bachelor digital science
+  description: | # this will include new lines to allow paragraphs
+      2 years high education in mathematics and science with languages and general studies in preparation for entry in CPE Lyon
