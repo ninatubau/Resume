@@ -1,20 +1,20 @@
 - layout: top-middle
   name: Microscopy image denoising using deep learning 
   link: Documentation in progress
-  github: RedHotDataProject/Project_ADA
+  #github: RedHotDataProject/Project_ADA
   quote: >
     I did this project during my master's internship at Center for Dynamic Imaging at Walter and Eliza Hall Institute of Medical Imaging. 
   description: | # this will include new lines to allow paragraphs
-    Keywords: Image processing, microscopy, deep learning, reconstruction
+    Keywords: Image processing, microscopy images, deep learning, reconstruction
 
-    The aim of this project is to develop a general method using Deep learning to denoise microscopy image coming from different aquisitions. The method used is based on the Content-Aware Image Reconstruction (CARE) publication. 
+    The aim of this project is to develop a general method using deep learning to denoise microscopy image coming from different equipments and biological processes. The method used is based on the Content-Aware Image Reconstruction (CARE) publication. 
 
 - layout: top-middle
   name: Shape Variation Analyzer
   link: https://www.slicer.org/wiki/Documentation/Nightly/Modules/ShapeVariationAnalyzer
   github: ninatubau/ShapeVariationAnalyzer
   quote: >
-    Shape Variation Analyzer (SVA) is a project that I did during my stay at University of Michigan. It was in collaboration with University of North Carolina and Kitware. 
+    Shape Variation Analyzer (SVA) is a project that I did during my stay at University of Michigan. It was in collaboration with University of North Carolina and Kitware Inc. 
   description: | # this will include new lines to allow paragraphs
     Keywords: Image analysis, deep learning, classification
 
@@ -28,21 +28,21 @@
   link: https://github.com/SubutaiBogatur/JoseNinaAlexML
   github: SubutaiBogatur/JoseNinaAlexML
   quote: >
-    I did this project during my master´s exchange at EPFL. It was for my Machine Learning course, it was done in collaboration with the Chair of Economics and Management of Innovation research lab. 
+    I did this project during my master's exchange at EPFL. It was for the machine learning course, it was done in collaboration with the Chair of Economics and Management of Innovation research lab. 
   description: | # this will include new lines to allow paragraphs
     Keywords: Natural language processing, data analysis, deep learning, classification, web scrapping
 
     In the political context of the firing of a large number of Turkish researchers since the tentative of Coup d'Etat in 2016 against state institutions, the objective of this project is to try to understand the reasons behind this. We aim to see if we can predict whether or not a researcher is fired by looking at their publications. Therefore, the steps we have followed in this project are the following: 1) Build the dataset by scrapping \textit{WebOfScience}, 2) preprocess the data (clean non-letters, solve other preprocessing problems and disambiguate authors), 3) represent words (concatenation of the title of every article a researcher has written that we can find on \textit{WebOfScience}) in a vector space using different techniques and 4) use machine learning methods (supervised and unsupervised) to try to classify each author as either fired or retained (not fired). 
 
-    *Because of the sensitivity of the project, contact me for further information.*
+    *Because of the sensitivity of the data, contact me for further information.*
 
 - layout: top-middle
   name: The Carbon Foodprint We Do Not Eat  
   link: https://redhotdataproject.github.io/Project_ADA/
   github: RedHotDataProject/Project_ADA
   quote: >
-    I did this project during my master's exchange at EPFL. It was for my Applied Data Analysis course. 
+    I did this project during my master's exchange at EPFL. It was for the applied data analysis course. 
   description: | # this will include new lines to allow paragraphs
-    Keywords: Data analysis, data visualization, data cleaning, web scrapping
+    Keywords: Data analysis, data visualisation, data cleaning, web scrapping
 
     From the raw dataset Open Food Facts, we cleaned and processed it in a way to extract as much information. We complemented our data set by scrapping the web. 
