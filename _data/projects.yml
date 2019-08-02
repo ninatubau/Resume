@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Microscopy image denoising using deep learning 
-  link: Documentation in progress
-  #github: RedHotDataProject/Project_ADA
+  link: https://ninatubau.github.io/denoising_results/
+  github: ninatubau/denoising
   quote: >
     I did this project during my master's internship at Centre for Dynamic Imaging at Walter and Eliza Hall Institute of Medical Imaging. 
   description: | # this will include new lines to allow paragraphs
