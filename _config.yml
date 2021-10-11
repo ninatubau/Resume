@@ -4,8 +4,8 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Nina Tubau Ribera
-title: Computer Scientist (Image processing)
-email: tubau.n@wehi.edu.au
+title: Data and Machine Learning Engineer
+email: tubaunina@gmail.com
 website: www.github.com/ninatubau
 
 # Social links
@@ -24,10 +24,11 @@ linkedin_username: nina-tubau-ribera-aa248112b
 # about_title: About Me
 about_profile_image: images/profilePic.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nina and I'm a computer science student. With communication and organisational skills, I am looking for a full time job in Medical Imaging starting in October 2019.
+  Hi, my name's Nina. With a background in computer science and a focus in data analytics and deep learning, I am now eager to apply my AI knowledge and expertise to new meaningful purposes. 
 
 
-  I am most interested in: <mark>Imaging</mark> and <mark>Deep learning</mark>
+
+  I am most interested in: <mark>Computer vision</mark> and <mark>Deep learning</mark>
 
 # Projects Section
 # projects_title: Projects

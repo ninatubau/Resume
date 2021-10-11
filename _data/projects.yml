@@ -5,7 +5,7 @@
   quote: >
     I did this project during my master's internship at Centre for Dynamic Imaging at Walter and Eliza Hall Institute of Medical Imaging. 
   description: | # this will include new lines to allow paragraphs
-    Keywords: Image processing, microscopy images, deep learning, reconstruction
+    Keywords: Computer vision, microscopy images, deep learning, reconstruction
 
     The aim of this project is to develop a general method using deep learning to denoise microscopy image coming from different equipments and biological processes. The method used is based on the Content-Aware Image Reconstruction (CARE) publication. 
 
@@ -16,7 +16,7 @@
   quote: >
     Shape Variation Analyzer (SVA) is a project that I did during my stay at University of Michigan. It was in collaboration with University of North Carolina and Kitware Inc. 
   description: | # this will include new lines to allow paragraphs
-    Keywords: Image analysis, deep learning, classification
+    Keywords: Computer vision, deep learning, classification
 
     SVA is a deep learning neural network that allows disease staging of bony changes in temporomandibular joint (TMJ) osteoarthritis (OA). The disease stage classification is done based on 3D shapes of the bone after processing CT scans. We combines geometrical features and shape descriptor, heat kernel signature, to describe every shape. 
 

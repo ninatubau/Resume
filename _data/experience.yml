@@ -2,21 +2,30 @@
   company: Walter and Eliza Hall Institute of Medical Research (WEHI)
   link: https://www.wehi.edu.au/
   job_title: Medical imaging intern
-  dates: February 2019  - Present
+  dates: October 2019  - Present
+  quote: >
+   Implementing data analysis approaches using deep learning to a range of computational tasks,  quantifying images, developing computer vision software to answer client needs within a world leading institute in biomedical research.
+  description: | # this will include new lines to allow paragraphs
+    *Tasks*: Applied machine learning and computer vision in the context of medical research, created artificial intelligence educational material for clients/collaborators
+
+
+- layout: left
+  company: Walter and Eliza Hall Institute of Medical Research (WEHI)
+  link: https://www.wehi.edu.au/
+  job_title: Deep learning intern
+  dates: February 2019 - August 2019
   quote: >
    Implementation of deep learning approaches to a range of computation tasks within the Centre for Dynamic Imaging such as computational image reconstruction, segmentation and resolution enhancement.
   description: | # this will include new lines to allow paragraphs
     *Tasks*: Biological data analysis and processing, image processing, applied deep learning, data visualisation
-    *Opportunities*: Presentation of my work through institute seminars
 
 - layout: left
   company: University of Michigan 
   link: https://sites.google.com/a/umich.edu/dentistry-image-computing/
-  job_title: Medical imaging intern
+  job_title: Software development intern
   dates: July 2017  - July 2018
   quote: >
     Development of a software plugin on the medical software 3D Slicer, based on a neural network that classifies morphological variability of the mandibular bone 
   description: | # this will include new lines to allow paragraphs
     *Tasks*: Medical data analysis and processing, statistical studies, image processing, applied machine learning
-    *Opportunities*: Publication of a scientific paper as 1st author for SPIE Medical Imaging, publication of a scientific paper as co-author for Elsevier, presentation of my scientific poster during the Research Day at University of Michigan, attendance the Slicer 3D project week organised at Massachusetts Institute of Technology (MIT) 
-
+   
