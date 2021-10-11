@@ -13,11 +13,11 @@
   name: Detect positions on camera using OpenPose
   github: Pierre-Assemat/DeepPoseIdentification
   quote: >
-    I did this project rin collaboration with the Robotics Lab at CPE Lyon. 
+    I did this project in collaboration with the Robotics Lab at CPE Lyon. 
   description: | # this will include new lines to allow paragraphs
     Keywords: Computer vision, pose, neural networks,
 
-    The aim of this project is to detect human positions on 2D camera using OpenPose. Classify people 	  on images according to their degree of attention (focus or distract) though a neural network. The     aim is to create a pipeline from jpeg images to be able to labelise images or video stream depending on people's attention for security purposes.
+    The aim of this project is to detect human positions on 2D camera using OpenPose. Classify people 	  on images according to their degree of attention (focus or distract) though a neural network. The     aim is to create a pipeline from jpeg images to be able to label images or video stream depending on people's attention for security purposes.
 
 - layout: top-middle
   name: Shape Variation Analyzer
