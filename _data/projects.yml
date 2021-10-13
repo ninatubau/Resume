@@ -13,7 +13,7 @@
   name: Detect positions on camera using OpenPose
   github: Pierre-Assemat/DeepPoseIdentification
   quote: >
-    I did this project in collaboration with the Robotics Lab at CPE Lyon. 
+    I did this project in scollaboration with the Robotics Lab at CPE Lyon. 
   description: | # this will include new lines to allow paragraphs
     Keywords: Computer vision, pose, neural networks,
 
